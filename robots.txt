@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+User-agent: ICC-Crawler
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
